@@ -1,5 +1,5 @@
 Design File for project:
-https://www.figma.com/file/zQARQzbYEOR1AvsvLIY0SK/Dentist-Template-%F0%9F%9F%A3-by-Flowbase.co-Community
+https://www.figma.com/file/Yk3jhcPZ2MMehKNn80bvmz/Xiastore---Electronics-(Community)?node-id=2%3A2
 
 INSTRUCTIONS
 1. RE-design template: fine tune some of the components, give the site a name(Situation where many individuals are involved in same project).
